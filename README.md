@@ -33,3 +33,5 @@
 		console.log();
 }
 })();
+
+http://www.john-james-andersen.com/blog/service-now/post-picture-image-field-rest.html
